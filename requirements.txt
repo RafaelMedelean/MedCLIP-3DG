@@ -1,0 +1,12 @@
+--extra-index-url https://developer.download.nvidia.com/compute/redist
+torch==2.7.0
+numpy==2.2.6
+pandas==2.2.3
+scipy==1.15.3
+torchio==0.20.13
+elasticdeform==0.5.1
+transformers==4.51.3
+SimpleITK==2.4.1
+nibabel==5.3.2
+pydicom==3.0.1
+nvidia-dali-cuda120==1.50.0
